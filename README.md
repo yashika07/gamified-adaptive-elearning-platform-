@@ -51,3 +51,8 @@ admin/ teacher Account :
 username : admin
 password : admin
 
+TO RUN THIS WEBSITE, OPEN XAMPP CONSOLE AND CONNECT THE DATABASE VIA PHPMYADMIN PAGE
+NOW, RUN local/uniquedeveloper/ IN WEB BROWSER WITH THESE TWO FILES IN YOUR XAMPP -> HTDOCS FOLDER.
+
+uniquedeveloper.rar file -> https://drive.google.com/file/d/1sdH1qNr62_REqxRCtvAxd4ru3jxOQBP1/view?usp=sharing
+uniquedeveloper.sql file -> https://drive.google.com/file/d/1-XLA9U2BMKz9FLBRJF9CoLq_n0BDn3ay/view?usp=sharing
