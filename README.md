@@ -1,7 +1,7 @@
 # gamified-adaptive-elearning-platform
 
 This platform is built with 
-## php 
+## php, html, css, js, jquery, bootstrap
 and 
 ## MySQLi
 with 
